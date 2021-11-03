@@ -5,6 +5,8 @@ repo: upptimly # The name of this repository
 sites:
   - name: Ly
     url: https://lyo.su
+  - name: hetzner
+    url: https://hz.lyo.su
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
