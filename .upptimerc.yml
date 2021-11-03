@@ -8,6 +8,8 @@ sites:
   - name: quote-api
     method: POST
     url: https://bot.lyo.su/quote/generate
+    expectedStatusCodes:
+      - 400
   - name: hetzner
     url: https://hz.lyo.su
   - name: mongo-hetzner
