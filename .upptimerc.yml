@@ -5,6 +5,9 @@ repo: upptimly # The name of this repository
 sites:
   - name: Ly
     url: https://lyo.su
+  - name: quote-api
+    method: POST
+    url: https://bot.lyo.su/quote/generate
   - name: hetzner
     url: https://hz.lyo.su
   - name: mongo-hetzner
