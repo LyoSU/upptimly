@@ -7,6 +7,10 @@ sites:
     url: https://lyo.su
   - name: hetzner
     url: https://hz.lyo.su
+  - name: oracle
+    check: "tcp-ping"
+    url: $URI_ORACLE
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
