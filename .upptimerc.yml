@@ -13,6 +13,7 @@ sites:
     url: https://bot.lyo.su/quote/generate
     expectedStatusCodes:
       - 400
+      - 429
   - name: hetzner
     url: https://hz.lyo.su
   - name: mongo-hetzner
