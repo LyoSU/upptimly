@@ -22,10 +22,10 @@
     "url": "https://bot.lyo.su/quote/generate",
     "icon": "https://favicons.githubusercontent.com/bot.lyo.su",
     "slug": "quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 617,
@@ -33,7 +33,9 @@
     "timeWeek": 487,
     "timeMonth": 617,
     "timeYear": 617,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-22": 1
+    }
   },
   {
     "name": "hetzner",
