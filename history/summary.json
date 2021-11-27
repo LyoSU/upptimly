@@ -22,10 +22,10 @@
     "url": "https://bot.lyo.su/quote/generate",
     "icon": "https://favicons.githubusercontent.com/bot.lyo.su",
     "slug": "quote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 583,
@@ -33,16 +33,18 @@
     "timeWeek": 408,
     "timeMonth": 583,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-27": 2
+    }
   },
   {
     "name": "hetzner",
     "url": "https://hz.lyo.su",
     "icon": "https://favicons.githubusercontent.com/hz.lyo.su",
     "slug": "hetzner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 401,
     "timeMonth": 552,
     "timeYear": 552,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-27": 0
+    }
   },
   {
     "name": "mongo-hetzner",
