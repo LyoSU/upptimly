@@ -6,7 +6,7 @@ assignees: # Users to assign downtime issues (optional)
   - LyoSU
 
 sites:
-  - name: Ly
+  - name: lyo.su
     url: https://lyo.su
   - name: quote-api
     method: POST
