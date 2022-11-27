@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyo.su.ico",
     "slug": "lyo-su",
     "status": "up",
-    "uptime": "97.05%",
+    "uptime": "97.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "97.05%",
+    "uptimeYear": "97.06%",
     "time": 377,
-    "timeDay": 406,
-    "timeWeek": 266,
-    "timeMonth": 274,
+    "timeDay": 330,
+    "timeWeek": 288,
+    "timeMonth": 276,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2022-11-08": 37,
@@ -42,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.90%",
-    "time": 806,
-    "timeDay": 915,
-    "timeWeek": 724,
-    "timeMonth": 706,
-    "timeYear": 823,
+    "time": 807,
+    "timeDay": 922,
+    "timeWeek": 767,
+    "timeMonth": 708,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2022-11-13": 17,
       "2022-11-08": 37,
@@ -71,8 +71,7 @@
       "2022-02-15": 81,
       "2022-02-07": 22,
       "2022-01-25": 48,
-      "2022-01-11": 80,
-      "2021-11-27": 26
+      "2022-01-11": 80
     }
   },
   {
@@ -87,9 +86,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.70%",
     "time": 662,
-    "timeDay": 842,
-    "timeWeek": 704,
-    "timeMonth": 721,
+    "timeDay": 700,
+    "timeWeek": 727,
+    "timeMonth": 717,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2022-11-08": 37,
@@ -107,8 +106,7 @@
       "2022-02-07": 21,
       "2022-01-25": 24,
       "2022-01-11": 79,
-      "2021-12-23": 28,
-      "2021-11-27": 24
+      "2021-12-23": 28
     }
   },
   {
@@ -123,9 +121,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
     "time": 115,
-    "timeDay": 121,
-    "timeWeek": 108,
-    "timeMonth": 113,
+    "timeDay": 158,
+    "timeWeek": 118,
+    "timeMonth": 114,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2022-11-03": 31,
@@ -149,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 117,
-    "timeWeek": 105,
-    "timeMonth": 111,
+    "timeDay": 147,
+    "timeWeek": 113,
+    "timeMonth": 112,
     "timeYear": 107,
     "dailyMinutesDown": {}
   }
