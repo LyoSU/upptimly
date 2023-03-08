@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "down",
-    "uptime": "79.90%",
+    "uptime": "79.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "73.03%",
+    "uptimeYear": "72.92%",
     "time": 115,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-03-08": 25,
+      "2023-03-08": 620,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
@@ -231,9 +231,9 @@
     "url": "$URI_ORACLE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -242,6 +242,8 @@
     "timeWeek": 99,
     "timeMonth": 112,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-08": 0
+    }
   }
 ]
