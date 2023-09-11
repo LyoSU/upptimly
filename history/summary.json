@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 278,
-    "timeDay": 222,
-    "timeWeek": 287,
-    "timeMonth": 358,
-    "timeYear": 277,
+    "time": 277,
+    "timeDay": 221,
+    "timeWeek": 283,
+    "timeMonth": 356,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2022-11-08": 37
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.07%",
     "time": 718,
-    "timeDay": 639,
-    "timeWeek": 677,
-    "timeMonth": 814,
-    "timeYear": 730,
+    "timeDay": 592,
+    "timeWeek": 664,
+    "timeMonth": 805,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2023-07-31": 688,
       "2023-07-30": 1440,
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1042,
-    "timeDay": 603,
-    "timeWeek": 663,
+    "timeDay": 673,
+    "timeWeek": 692,
     "timeMonth": 775,
-    "timeYear": 1145,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-04-30": 23,
       "2023-02-21": 25,
@@ -85,18 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "down",
-    "uptime": "57.91%",
+    "uptime": "57.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.14%",
+    "uptimeYear": "21.87%",
     "time": 117,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2023-09-10": 22,
+      "2023-09-11": 21,
+      "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
@@ -383,8 +384,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 165,
       "2022-11-03": 31,
-      "2022-11-02": 24,
-      "2022-09-11": 24
+      "2022-11-02": 24
     }
   },
   {
@@ -400,8 +400,8 @@
     "uptimeYear": "99.94%",
     "time": 114,
     "timeDay": 85,
-    "timeWeek": 97,
-    "timeMonth": 103,
+    "timeWeek": 96,
+    "timeMonth": 102,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2023-03-08": 336
