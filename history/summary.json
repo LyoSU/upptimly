@@ -28,7 +28,7 @@
     "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.40%",
+    "uptimeMonth": "80.00%",
     "uptimeYear": "94.43%",
     "time": 765,
     "timeDay": 737,
@@ -70,10 +70,10 @@
     "url": "https://hz.lyo.su",
     "icon": "https://icons.duckduckgo.com/ip3/hz.lyo.su.ico",
     "slug": "hetzner",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1052,
@@ -82,6 +82,7 @@
     "timeMonth": 712,
     "timeYear": 1125,
     "dailyMinutesDown": {
+      "2023-12-29": 1,
       "2023-04-30": 23,
       "2023-02-21": 25
     }
@@ -92,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "down",
-    "uptime": "49.81%",
+    "uptime": "49.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -103,7 +104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-29": 18,
+      "2023-12-29": 718,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
