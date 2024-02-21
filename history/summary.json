@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 342,
-    "timeWeek": 324,
-    "timeMonth": 311,
+    "timeDay": 310,
+    "timeWeek": 325,
+    "timeMonth": 308,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-10-30": 21
@@ -31,9 +31,9 @@
     "uptimeMonth": "45.61%",
     "uptimeYear": "90.31%",
     "time": 772,
-    "timeDay": 694,
-    "timeWeek": 693,
-    "timeMonth": 720,
+    "timeDay": 674,
+    "timeWeek": 689,
+    "timeMonth": 719,
     "timeYear": 781,
     "dailyMinutesDown": {
       "2024-02-08": 810,
@@ -92,15 +92,14 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 1022,
-    "timeDay": 539,
-    "timeWeek": 642,
-    "timeMonth": 685,
-    "timeYear": 1152,
+    "timeDay": 824,
+    "timeWeek": 662,
+    "timeMonth": 694,
+    "timeYear": 1153,
     "dailyMinutesDown": {
       "2024-01-27": 15,
       "2024-01-23": 52,
-      "2023-04-30": 23,
-      "2023-02-21": 25
+      "2023-04-30": 23
     }
   },
   {
@@ -109,18 +108,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "down",
-    "uptime": "46.66%",
+    "uptime": "46.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 115,
+    "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-20": 21,
+      "2024-02-21": 22,
+      "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
@@ -483,8 +483,7 @@
       "2023-02-25": 1440,
       "2023-02-24": 1440,
       "2023-02-23": 1440,
-      "2023-02-22": 1440,
-      "2023-02-21": 1440
+      "2023-02-22": 1440
     }
   },
   {
@@ -499,8 +498,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 113,
-    "timeDay": 101,
-    "timeWeek": 104,
+    "timeDay": 100,
+    "timeWeek": 103,
     "timeMonth": 110,
     "timeYear": 112,
     "dailyMinutesDown": {
