@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 285,
-    "timeDay": 313,
+    "timeDay": 348,
     "timeWeek": 283,
-    "timeMonth": 310,
+    "timeMonth": 312,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-10-30": 21
@@ -28,13 +28,13 @@
     "uptime": "95.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.04%",
+    "uptimeMonth": "65.33%",
     "uptimeYear": "90.31%",
     "time": 772,
-    "timeDay": 634,
-    "timeWeek": 743,
-    "timeMonth": 718,
-    "timeYear": 782,
+    "timeDay": 633,
+    "timeWeek": 734,
+    "timeMonth": 711,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2024-02-08": 810,
       "2024-02-07": 1440,
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1082,
-    "timeDay": 690,
-    "timeWeek": 771,
-    "timeMonth": 697,
-    "timeYear": 1041,
+    "timeDay": 687,
+    "timeWeek": 774,
+    "timeMonth": 696,
+    "timeYear": 1040,
     "dailyMinutesDown": {
       "2024-01-27": 15,
       "2024-01-23": 52,
@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "down",
-    "uptime": "46.22%",
+    "uptime": "46.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -119,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-28": 21,
+      "2024-02-29": 22,
+      "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
@@ -482,8 +483,7 @@
       "2023-03-05": 1440,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
-      "2023-03-02": 1440,
-      "2023-03-01": 1440
+      "2023-03-02": 1440
     }
   },
   {
@@ -498,9 +498,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 113,
-    "timeDay": 101,
-    "timeWeek": 114,
-    "timeMonth": 110,
+    "timeDay": 89,
+    "timeWeek": 115,
+    "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-12-17": 15,
