@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
-    "timeDay": 287,
-    "timeWeek": 320,
-    "timeMonth": 299,
+    "timeDay": 340,
+    "timeWeek": 319,
+    "timeMonth": 300,
     "timeYear": 293,
     "dailyMinutesDown": {
       "2023-10-30": 21
@@ -28,12 +28,12 @@
     "uptime": "95.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.63%",
+    "uptimeMonth": "94.90%",
     "uptimeYear": "90.31%",
     "time": 772,
-    "timeDay": 593,
-    "timeWeek": 747,
-    "timeMonth": 711,
+    "timeDay": 595,
+    "timeWeek": 741,
+    "timeMonth": 700,
     "timeYear": 784,
     "dailyMinutesDown": {
       "2024-02-08": 810,
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1024,
-    "timeDay": 665,
-    "timeWeek": 793,
-    "timeMonth": 737,
-    "timeYear": 1043,
+    "timeDay": 583,
+    "timeWeek": 780,
+    "timeMonth": 733,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2024-01-27": 15,
       "2024-01-23": 52,
@@ -108,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "down",
-    "uptime": "45.84%",
+    "uptime": "45.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -119,7 +119,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-06": 22,
+      "2024-03-07": 18,
+      "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -482,8 +483,7 @@
       "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
-      "2023-03-09": 1440,
-      "2023-03-08": 1440
+      "2023-03-09": 1440
     }
   },
   {
@@ -500,14 +500,13 @@
     "time": 113,
     "timeDay": 84,
     "timeWeek": 114,
-    "timeMonth": 109,
+    "timeMonth": 107,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-12-17": 15,
       "2023-12-16": 24,
       "2023-12-15": 1440,
-      "2023-12-14": 1416,
-      "2023-03-08": 336
+      "2023-12-14": 1416
     }
   }
 ]
