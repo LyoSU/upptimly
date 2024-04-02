@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 407,
-    "timeWeek": 315,
-    "timeMonth": 328,
+    "timeDay": 274,
+    "timeWeek": 314,
+    "timeMonth": 327,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2023-10-30": 21
@@ -31,10 +31,10 @@
     "uptimeMonth": "98.13%",
     "uptimeYear": "90.16%",
     "time": 769,
-    "timeDay": 585,
-    "timeWeek": 706,
-    "timeMonth": 733,
-    "timeYear": 787,
+    "timeDay": 928,
+    "timeWeek": 738,
+    "timeMonth": 742,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2024-03-22": 819,
       "2024-02-08": 810,
@@ -76,8 +76,7 @@
       "2023-07-29": 48,
       "2023-06-01": 496,
       "2023-05-31": 52,
-      "2023-04-04": 849,
-      "2023-04-03": 1440
+      "2023-04-04": 849
     }
   },
   {
@@ -92,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1023,
-    "timeDay": 641,
-    "timeWeek": 737,
-    "timeMonth": 730,
+    "timeDay": 867,
+    "timeWeek": 757,
+    "timeMonth": 736,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-01-27": 15,
@@ -108,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "up",
-    "uptime": "46.34%",
+    "uptime": "46.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "51.88%",
-    "uptimeYear": "4.21%",
-    "time": 116,
-    "timeDay": 92,
-    "timeWeek": 108,
-    "timeMonth": 112,
-    "timeYear": 112,
+    "uptimeMonth": "55.16%",
+    "uptimeYear": "4.48%",
+    "time": 117,
+    "timeDay": 159,
+    "timeWeek": 115,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2024-03-15": 945,
       "2024-03-14": 1440,
@@ -465,8 +464,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   },
   {
@@ -475,15 +473,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 113,
-    "timeDay": 89,
-    "timeWeek": 102,
-    "timeMonth": 106,
+    "timeDay": 149,
+    "timeWeek": 109,
+    "timeMonth": 108,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-12-17": 15,
