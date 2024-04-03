@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 289,
-    "timeDay": 274,
-    "timeWeek": 314,
-    "timeMonth": 327,
+    "timeDay": 264,
+    "timeWeek": 305,
+    "timeMonth": 322,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2023-10-30": 21
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.lyo.su.ico",
     "slug": "quote-api",
     "status": "up",
-    "uptime": "95.12%",
+    "uptime": "95.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.13%",
-    "uptimeYear": "90.16%",
+    "uptimeYear": "90.17%",
     "time": 769,
-    "timeDay": 928,
-    "timeWeek": 738,
-    "timeMonth": 742,
+    "timeDay": 901,
+    "timeWeek": 770,
+    "timeMonth": 750,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2024-03-22": 819,
@@ -75,8 +75,7 @@
       "2023-07-30": 1440,
       "2023-07-29": 48,
       "2023-06-01": 496,
-      "2023-05-31": 52,
-      "2023-04-04": 849
+      "2023-05-31": 52
     }
   },
   {
@@ -90,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1023,
-    "timeDay": 867,
-    "timeWeek": 757,
-    "timeMonth": 736,
-    "timeYear": 1046,
+    "time": 1024,
+    "timeDay": 895,
+    "timeWeek": 790,
+    "timeMonth": 744,
+    "timeYear": 1047,
     "dailyMinutesDown": {
       "2024-01-27": 15,
       "2024-01-23": 52,
@@ -107,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "up",
-    "uptime": "46.40%",
+    "uptime": "46.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.16%",
-    "uptimeYear": "4.48%",
-    "time": 117,
-    "timeDay": 159,
-    "timeWeek": 115,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "uptimeMonth": "58.45%",
+    "uptimeYear": "4.76%",
+    "time": 119,
+    "timeDay": 164,
+    "timeWeek": 126,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2024-03-15": 945,
       "2024-03-14": 1440,
@@ -463,8 +462,7 @@
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
-      "2023-04-05": 1440,
-      "2023-04-04": 1440
+      "2023-04-05": 1440
     }
   },
   {
@@ -480,8 +478,8 @@
     "uptimeYear": "99.45%",
     "time": 113,
     "timeDay": 149,
-    "timeWeek": 109,
-    "timeMonth": 108,
+    "timeWeek": 118,
+    "timeMonth": 109,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-12-17": 15,
