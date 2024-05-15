@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyo.su.ico",
     "slug": "lyo-su",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 380,
-    "timeWeek": 312,
-    "timeMonth": 317,
-    "timeYear": 305,
+    "timeDay": 328,
+    "timeWeek": 318,
+    "timeMonth": 315,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2023-10-30": 21
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.60%",
     "time": 768,
-    "timeDay": 684,
-    "timeWeek": 711,
-    "timeMonth": 723,
+    "timeDay": 649,
+    "timeWeek": 703,
+    "timeMonth": 721,
     "timeYear": 791,
     "dailyMinutesDown": {
       "2024-03-22": 819,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1069,
-    "timeDay": 663,
+    "timeDay": 655,
     "timeWeek": 678,
-    "timeMonth": 707,
+    "timeMonth": 706,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2024-01-27": 15,
@@ -105,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "up",
-    "uptime": "48.84%",
+    "uptime": "48.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "15.99%",
+    "uptimeYear": "16.26%",
     "time": 114,
-    "timeDay": 109,
+    "timeDay": 93,
     "timeWeek": 106,
-    "timeMonth": 110,
+    "timeMonth": 109,
     "timeYear": 114,
     "dailyMinutesDown": {
       "2024-03-15": 945,
@@ -419,8 +419,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
-      "2023-05-17": 1440,
-      "2023-05-16": 1440
+      "2023-05-17": 1440
     }
   },
   {
@@ -435,9 +434,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 112,
-    "timeDay": 101,
+    "timeDay": 89,
     "timeWeek": 100,
-    "timeMonth": 104,
+    "timeMonth": 103,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2023-12-17": 15,
