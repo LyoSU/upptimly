@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 422,
-    "timeWeek": 365,
+    "timeDay": 330,
+    "timeWeek": 333,
     "timeMonth": 307,
     "timeYear": 311,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.60%",
     "time": 780,
-    "timeDay": 802,
-    "timeWeek": 767,
-    "timeMonth": 795,
-    "timeYear": 796,
+    "timeDay": 899,
+    "timeWeek": 796,
+    "timeMonth": 792,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2024-05-21": 520,
       "2024-05-20": 50,
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 982,
-    "timeDay": 970,
-    "timeWeek": 791,
-    "timeMonth": 761,
-    "timeYear": 762,
+    "time": 983,
+    "timeDay": 898,
+    "timeWeek": 832,
+    "timeMonth": 762,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2024-01-27": 15,
       "2024-01-23": 52
@@ -105,14 +105,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "up",
-    "uptime": "51.51%",
+    "uptime": "51.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "29.93%",
+    "uptimeYear": "30.20%",
     "time": 116,
-    "timeDay": 109,
-    "timeWeek": 109,
+    "timeDay": 158,
+    "timeWeek": 118,
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -369,8 +369,7 @@
       "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
-      "2023-07-07": 1440,
-      "2023-07-06": 1440
+      "2023-07-07": 1440
     }
   },
   {
@@ -385,8 +384,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 112,
-    "timeDay": 101,
-    "timeWeek": 102,
+    "timeDay": 148,
+    "timeWeek": 111,
     "timeMonth": 110,
     "timeYear": 111,
     "dailyMinutesDown": {
