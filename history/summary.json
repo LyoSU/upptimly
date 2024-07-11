@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 299,
-    "timeDay": 309,
-    "timeWeek": 367,
-    "timeMonth": 314,
+    "timeDay": 313,
+    "timeWeek": 351,
+    "timeMonth": 315,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2023-10-30": 21
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.60%",
     "time": 781,
-    "timeDay": 893,
-    "timeWeek": 769,
-    "timeMonth": 774,
-    "timeYear": 797,
+    "timeDay": 902,
+    "timeWeek": 783,
+    "timeMonth": 781,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2024-05-21": 520,
       "2024-05-20": 50,
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 984,
-    "timeDay": 906,
-    "timeWeek": 789,
-    "timeMonth": 747,
-    "timeYear": 763,
+    "time": 985,
+    "timeDay": 916,
+    "timeWeek": 782,
+    "timeMonth": 757,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2024-01-27": 15,
       "2024-01-23": 52
@@ -105,15 +105,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "up",
-    "uptime": "51.81%",
+    "uptime": "51.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "31.57%",
+    "uptimeYear": "31.85%",
     "time": 117,
     "timeDay": 158,
-    "timeWeek": 124,
-    "timeMonth": 115,
+    "timeWeek": 131,
+    "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2024-06-22": 164,
@@ -363,8 +363,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -379,9 +378,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 112,
-    "timeDay": 149,
-    "timeWeek": 117,
-    "timeMonth": 110,
+    "timeDay": 148,
+    "timeWeek": 124,
+    "timeMonth": 112,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2023-12-17": 15,
