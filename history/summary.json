@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 334,
-    "timeWeek": 273,
+    "time": 310,
+    "timeDay": 381,
+    "timeWeek": 305,
     "timeMonth": 310,
-    "timeYear": 312,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2023-10-30": 21
     }
@@ -25,14 +25,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.lyo.su.ico",
     "slug": "quote-api",
     "status": "up",
-    "uptime": "90.80%",
+    "uptime": "90.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "77.38%",
-    "time": 783,
-    "timeDay": 632,
-    "timeWeek": 722,
+    "time": 782,
+    "timeDay": 646,
+    "timeWeek": 708,
     "timeMonth": 781,
     "timeYear": 791,
     "dailyMinutesDown": {
@@ -127,9 +127,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 762,
-    "timeDay": 655,
-    "timeWeek": 768,
-    "timeMonth": 741,
+    "timeDay": 717,
+    "timeWeek": 737,
+    "timeMonth": 747,
     "timeYear": 765,
     "dailyMinutesDown": {
       "2024-08-31": 29,
@@ -143,14 +143,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "up",
-    "uptime": "55.61%",
+    "uptime": "55.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.58%",
+    "uptimeYear": "54.86%",
     "time": 116,
-    "timeDay": 95,
-    "timeWeek": 122,
+    "timeDay": 92,
+    "timeWeek": 114,
     "timeMonth": 126,
     "timeYear": 116,
     "dailyMinutesDown": {
@@ -318,8 +318,7 @@
       "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
-      "2023-10-05": 1440,
-      "2023-10-04": 1440
+      "2023-10-05": 1440
     }
   },
   {
@@ -335,7 +334,7 @@
     "uptimeYear": "99.45%",
     "time": 111,
     "timeDay": 84,
-    "timeWeek": 112,
+    "timeWeek": 105,
     "timeMonth": 109,
     "timeYear": 110,
     "dailyMinutesDown": {
