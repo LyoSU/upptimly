@@ -1,7 +1,7 @@
 url: https://bot.lyo.su/quote/generate
-status: down
-code: 404
-responseTime: 968
-lastUpdated: 2024-11-14T00:29:50.481Z
+status: up
+code: 400
+responseTime: 950
+lastUpdated: 2024-11-14T16:08:50.345Z
 startTime: 2021-11-03T04:49:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
