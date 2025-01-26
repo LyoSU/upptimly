@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 316,
-    "timeWeek": 359,
-    "timeMonth": 333,
+    "timeDay": 337,
+    "timeWeek": 361,
+    "timeMonth": 334,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.lyo.su.ico",
     "slug": "quote-api",
     "status": "up",
-    "uptime": "91.62%",
+    "uptime": "91.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.93%",
-    "uptimeYear": "80.56%",
-    "time": 778,
-    "timeDay": 549,
-    "timeWeek": 732,
-    "timeMonth": 748,
+    "uptimeYear": "80.83%",
+    "time": 777,
+    "timeDay": 708,
+    "timeWeek": 705,
+    "timeMonth": 742,
     "timeYear": 738,
     "dailyMinutesDown": {
       "2025-01-12": 468,
@@ -96,8 +96,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -111,14 +110,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 787,
-    "timeDay": 629,
-    "timeWeek": 769,
-    "timeMonth": 744,
+    "time": 786,
+    "timeDay": 698,
+    "timeWeek": 745,
+    "timeMonth": 738,
     "timeYear": 772,
     "dailyMinutesDown": {
-      "2024-08-31": 29,
-      "2024-01-27": 15
+      "2024-08-31": 29
     }
   },
   {
@@ -127,15 +125,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
     "status": "up",
-    "uptime": "59.94%",
+    "uptime": "59.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.09%",
+    "uptimeYear": "86.36%",
     "time": 116,
-    "timeDay": 93,
-    "timeWeek": 121,
-    "timeMonth": 124,
+    "timeDay": 97,
+    "timeWeek": 111,
+    "timeMonth": 122,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2024-10-18": 17,
@@ -188,8 +186,7 @@
       "2024-01-31": 1440,
       "2024-01-30": 1440,
       "2024-01-29": 1440,
-      "2024-01-28": 1440,
-      "2024-01-27": 1440
+      "2024-01-28": 1440
     }
   },
   {
@@ -204,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 82,
-    "timeWeek": 109,
-    "timeMonth": 112,
+    "timeDay": 86,
+    "timeWeek": 100,
+    "timeMonth": 110,
     "timeYear": 107,
     "dailyMinutesDown": {}
   }
