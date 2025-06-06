@@ -4,19 +4,19 @@
     "url": "https://lyo.su",
     "icon": "https://icons.duckduckgo.com/ip3/lyo.su.ico",
     "slug": "lyo-su",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 194,
-    "timeWeek": 284,
-    "timeMonth": 348,
+    "timeDay": 220,
+    "timeWeek": 283,
+    "timeMonth": 345,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-06-06": 0
+      "2025-06-06": 15
     }
   },
   {
