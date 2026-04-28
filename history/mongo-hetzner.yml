@@ -1,7 +1,7 @@
 url: $URI_HETZNER
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-04-28T12:09:41.967Z
+status: up
+code: 200
+responseTime: 133
+lastUpdated: 2026-04-28T16:15:40.498Z
 startTime: 2021-11-03T04:43:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
