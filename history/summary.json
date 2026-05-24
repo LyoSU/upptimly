@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lyo.su.ico",
     "slug": "lyo-su",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -103,15 +103,15 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "10.45%",
-    "uptimeWeek": "9.29%",
-    "uptimeMonth": "32.07%",
-    "uptimeYear": "94.34%",
+    "status": "up",
+    "uptime": "98.75%",
+    "uptimeDay": "10.47%",
+    "uptimeWeek": "9.30%",
+    "uptimeMonth": "31.75%",
+    "uptimeYear": "94.31%",
     "time": 124,
-    "timeDay": 120,
-    "timeWeek": 129,
+    "timeDay": 127,
+    "timeWeek": 130,
     "timeMonth": 132,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -140,7 +140,7 @@
       "2026-05-21": 1269,
       "2026-05-22": 1367,
       "2026-05-23": 1386,
-      "2026-05-24": 637
+      "2026-05-24": 774
     }
   },
   {
