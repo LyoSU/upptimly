@@ -103,15 +103,15 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "19.72%",
-    "uptimeWeek": "12.41%",
-    "uptimeMonth": "32.00%",
-    "uptimeYear": "94.33%",
+    "status": "up",
+    "uptime": "98.73%",
+    "uptimeDay": "7.92%",
+    "uptimeWeek": "12.02%",
+    "uptimeMonth": "30.66%",
+    "uptimeYear": "94.22%",
     "time": 124,
-    "timeDay": 154,
-    "timeWeek": 136,
+    "timeDay": 156,
+    "timeWeek": 139,
     "timeMonth": 134,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -140,7 +140,7 @@
       "2026-05-24": 1189,
       "2026-05-25": 1247,
       "2026-05-26": 1210,
-      "2026-05-27": 76
+      "2026-05-27": 665
     }
   },
   {
