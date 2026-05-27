@@ -13,7 +13,7 @@
     "time": 306,
     "timeDay": 385,
     "timeWeek": 289,
-    "timeMonth": 221,
+    "timeMonth": 222,
     "timeYear": 287,
     "dailyMinutesDown": {
       "2025-09-08": 348,
@@ -36,8 +36,8 @@
     "time": 876,
     "timeDay": 663,
     "timeWeek": 6709,
-    "timeMonth": 2216,
-    "timeYear": 947,
+    "timeMonth": 2268,
+    "timeYear": 948,
     "dailyMinutesDown": {
       "2025-06-13": 342,
       "2025-06-12": 412,
@@ -86,7 +86,7 @@
     "time": 684,
     "timeDay": 469,
     "timeWeek": 575,
-    "timeMonth": 528,
+    "timeMonth": 531,
     "timeYear": 670,
     "dailyMinutesDown": {
       "2025-11-18": 143,
@@ -103,15 +103,15 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "down",
+    "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "25.72%",
-    "uptimeWeek": "13.65%",
-    "uptimeMonth": "31.97%",
-    "uptimeYear": "94.33%",
+    "uptimeDay": "25.73%",
+    "uptimeWeek": "13.45%",
+    "uptimeMonth": "31.90%",
+    "uptimeYear": "94.32%",
     "time": 124,
-    "timeDay": 134,
-    "timeWeek": 136,
+    "timeDay": 131,
+    "timeWeek": 135,
     "timeMonth": 133,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
       "2026-05-24": 1189,
       "2026-05-25": 1247,
       "2026-05-26": 1210,
-      "2026-05-27": 1000
+      "2026-05-27": 1028
     }
   },
   {
@@ -156,7 +156,7 @@
     "time": 109,
     "timeDay": 126,
     "timeWeek": 121,
-    "timeMonth": 110,
+    "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {}
   }
