@@ -28,11 +28,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.lyo.su.ico",
     "slug": "quote-api",
     "status": "down",
-    "uptime": "93.60%",
+    "uptime": "93.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "71.30%",
-    "uptimeMonth": "93.39%",
-    "uptimeYear": "94.73%",
+    "uptimeWeek": "67.92%",
+    "uptimeMonth": "92.62%",
+    "uptimeYear": "94.66%",
     "time": 860,
     "timeDay": 321,
     "timeWeek": 456,
@@ -68,7 +68,7 @@
       "2026-04-22": 31,
       "2026-04-30": 40,
       "2026-05-21": 62,
-      "2026-07-02": 790,
+      "2026-07-02": 1130,
       "2026-07-01": 1440,
       "2026-06-30": 664
     }
@@ -104,12 +104,12 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "19.79%",
-    "uptimeWeek": "20.23%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "92.52%",
+    "status": "up",
+    "uptime": "98.38%",
+    "uptimeDay": "16.21%",
+    "uptimeWeek": "19.90%",
+    "uptimeMonth": "16.42%",
+    "uptimeYear": "92.46%",
     "time": 127,
     "timeDay": 138,
     "timeWeek": 140,
@@ -148,7 +148,7 @@
       "2026-06-29": 1155,
       "2026-06-30": 1106,
       "2026-07-01": 905,
-      "2026-07-02": 667
+      "2026-07-02": 1007
     }
   },
   {
