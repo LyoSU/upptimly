@@ -13,7 +13,7 @@
     "time": 304,
     "timeDay": 310,
     "timeWeek": 317,
-    "timeMonth": 376,
+    "timeMonth": 378,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2025-09-08": 348,
@@ -32,11 +32,11 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.10%",
+    "uptimeYear": "82.09%",
     "time": 857,
     "timeDay": 370,
     "timeWeek": 270,
-    "timeMonth": 906,
+    "timeMonth": 923,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2025-09-07": 978,
@@ -65,7 +65,7 @@
       "2026-04-22": 31,
       "2026-04-30": 40,
       "2026-05-21": 62,
-      "2026-08-18": 1415,
+      "2026-08-18": 1437,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -131,7 +131,7 @@
     "time": 664,
     "timeDay": 378,
     "timeWeek": 328,
-    "timeMonth": 901,
+    "timeMonth": 919,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2025-11-18": 143,
@@ -141,7 +141,7 @@
       "2026-02-03": 1440,
       "2026-02-02": 52,
       "2026-04-30": 39,
-      "2026-08-18": 1415,
+      "2026-08-18": 1437,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -192,17 +192,17 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "down",
+    "status": "up",
     "uptime": "97.94%",
-    "uptimeDay": "22.00%",
-    "uptimeWeek": "20.67%",
-    "uptimeMonth": "13.95%",
+    "uptimeDay": "20.75%",
+    "uptimeWeek": "20.71%",
+    "uptimeMonth": "13.96%",
     "uptimeYear": "90.14%",
     "time": 129,
-    "timeDay": 136,
+    "timeDay": 139,
     "timeWeek": 133,
     "timeMonth": 135,
-    "timeYear": 131,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2026-07-07": 602,
       "2026-07-08": 1113,
@@ -246,7 +246,7 @@
       "2026-08-15": 1237,
       "2026-08-16": 1243,
       "2026-08-17": 974,
-      "2026-08-18": 1124
+      "2026-08-18": 1142
     }
   },
   {
@@ -254,17 +254,19 @@
     "url": "$URI_ORACLE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 142,
     "timeWeek": 110,
-    "timeMonth": 116,
+    "timeMonth": 115,
     "timeYear": 111,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-18": 0
+    }
   }
 ]
