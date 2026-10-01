@@ -29,7 +29,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.76%",
+    "uptimeYear": "70.75%",
     "time": 829,
     "timeDay": 561,
     "timeWeek": 301,
@@ -59,7 +59,7 @@
       "2026-04-22": 31,
       "2026-04-30": 40,
       "2026-05-21": 62,
-      "2026-10-01": 105,
+      "2026-10-01": 159,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -164,7 +164,7 @@
     "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.86%",
+    "uptimeMonth": "54.98%",
     "uptimeYear": "79.79%",
     "time": 633,
     "timeDay": 841,
@@ -257,20 +257,20 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "16.04%",
-    "uptimeWeek": "13.67%",
-    "uptimeMonth": "13.51%",
-    "uptimeYear": "87.86%",
+    "status": "down",
+    "uptime": "97.57%",
+    "uptimeDay": "19.24%",
+    "uptimeWeek": "14.15%",
+    "uptimeMonth": "13.62%",
+    "uptimeYear": "88.04%",
     "time": 131,
     "timeDay": 144,
     "timeWeek": 130,
     "timeMonth": 129,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-08-10": 1014,
       "2026-08-11": 1204,
+      "2026-08-10": 50,
       "2026-08-12": 1345,
       "2026-08-13": 906,
       "2026-08-14": 1146,
@@ -321,7 +321,7 @@
       "2026-09-28": 1317,
       "2026-09-29": 968,
       "2026-09-30": 1108,
-      "2026-10-01": 101
+      "2026-10-01": 105
     }
   },
   {
@@ -330,11 +330,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
     "status": "down",
-    "uptime": "97.50%",
+    "uptime": "97.49%",
     "uptimeDay": "7.66%",
     "uptimeWeek": "2.61%",
     "uptimeMonth": "2.77%",
-    "uptimeYear": "88.31%",
+    "uptimeYear": "88.30%",
     "time": 111,
     "timeDay": 0,
     "timeWeek": 0,
@@ -385,7 +385,7 @@
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
-      "2026-10-01": 0
+      "2026-10-01": 54
     }
   }
 ]
