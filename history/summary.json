@@ -14,7 +14,7 @@
     "timeDay": 777,
     "timeWeek": 437,
     "timeMonth": 455,
-    "timeYear": 301,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2025-11-18": 106
     }
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.lyo.su.ico",
     "slug": "quote-api",
     "status": "down",
-    "uptime": "88.81%",
+    "uptime": "88.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.45%",
+    "uptimeYear": "70.35%",
     "time": 828,
     "timeDay": 219,
     "timeWeek": 304,
@@ -59,7 +59,7 @@
       "2026-04-22": 31,
       "2026-04-30": 40,
       "2026-05-21": 62,
-      "2026-10-02": 317,
+      "2026-10-02": 826,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -165,7 +165,7 @@
     "uptime": "95.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.63%",
+    "uptimeMonth": "59.79%",
     "uptimeYear": "79.79%",
     "time": 632,
     "timeDay": 497,
@@ -258,15 +258,15 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "14.15%",
-    "uptimeMonth": "13.24%",
-    "uptimeYear": "87.74%",
+    "status": "up",
+    "uptime": "97.49%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "14.20%",
+    "uptimeMonth": "12.66%",
+    "uptimeYear": "87.64%",
     "time": 131,
-    "timeDay": 0,
-    "timeWeek": 130,
+    "timeDay": 125,
+    "timeWeek": 129,
     "timeMonth": 131,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -323,7 +323,7 @@
       "2026-09-29": 968,
       "2026-09-30": 1108,
       "2026-10-01": 1386,
-      "2026-10-02": 317
+      "2026-10-02": 822
     }
   },
   {
@@ -332,11 +332,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
     "status": "down",
-    "uptime": "97.43%",
+    "uptime": "97.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "2.61%",
     "uptimeMonth": "2.77%",
-    "uptimeYear": "88.00%",
+    "uptimeYear": "87.90%",
     "time": 111,
     "timeDay": 0,
     "timeWeek": 0,
@@ -387,7 +387,7 @@
       "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
-      "2026-10-02": 317,
+      "2026-10-02": 826,
       "2026-10-01": 1335
     }
   }
