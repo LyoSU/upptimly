@@ -14,7 +14,7 @@
     "timeDay": 306,
     "timeWeek": 540,
     "timeMonth": 477,
-    "timeYear": 304,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2025-11-18": 106
     }
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.lyo.su.ico",
     "slug": "quote-api",
     "status": "down",
-    "uptime": "88.30%",
+    "uptime": "88.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "67.56%",
+    "uptimeYear": "67.49%",
     "time": 821,
     "timeDay": 325,
     "timeWeek": 369,
@@ -59,7 +59,8 @@
       "2026-04-22": 31,
       "2026-04-30": 40,
       "2026-05-21": 62,
-      "2026-10-12": 1074,
+      "2026-10-13": 2,
+      "2026-10-12": 1440,
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
@@ -175,13 +176,13 @@
     "uptime": "95.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.23%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "79.79%",
     "time": 629,
     "timeDay": 412,
     "timeWeek": 545,
     "timeMonth": 488,
-    "timeYear": 602,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2025-11-18": 143,
       "2026-02-06": 843,
@@ -268,19 +269,19 @@
     "url": "$URI_HETZNER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mongo-hetzner",
-    "status": "up",
+    "status": "down",
     "uptime": "97.09%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "8.12%",
-    "uptimeMonth": "11.87%",
-    "uptimeYear": "85.61%",
+    "uptimeDay": "25.54%",
+    "uptimeWeek": "11.72%",
+    "uptimeMonth": "12.70%",
+    "uptimeYear": "85.63%",
     "time": 131,
     "timeDay": 155,
     "timeWeek": 141,
     "timeMonth": 135,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2026-08-13": 722,
+      "2026-08-13": 599,
       "2026-08-14": 1146,
       "2026-08-15": 1237,
       "2026-08-16": 1243,
@@ -339,8 +340,9 @@
       "2026-10-07": 1300,
       "2026-10-10": 1161,
       "2026-10-09": 1440,
-      "2026-10-12": 1070,
-      "2026-10-11": 1440
+      "2026-10-12": 1073,
+      "2026-10-11": 1440,
+      "2026-10-13": 2
     }
   },
   {
@@ -349,11 +351,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oracle",
     "status": "down",
-    "uptime": "96.88%",
-    "uptimeDay": "4.40%",
+    "uptime": "96.86%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "2.84%",
     "uptimeMonth": "3.42%",
-    "uptimeYear": "85.17%",
+    "uptimeYear": "85.10%",
     "time": 111,
     "timeDay": 0,
     "timeWeek": 0,
@@ -415,7 +417,8 @@
       "2026-10-03": 1440,
       "2026-10-02": 1440,
       "2026-10-01": 1335,
-      "2026-10-12": 1074
+      "2026-10-13": 2,
+      "2026-10-12": 1440
     }
   }
 ]
