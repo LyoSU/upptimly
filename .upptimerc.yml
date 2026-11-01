@@ -6,16 +6,8 @@ assignees: # Users to assign downtime issues (optional)
   - LyoSU
 
 sites:
-  - name: lyo.su
-    url: https://lyo.su
-  - name: quote-api
-    method: POST
-    url: https://bot.lyo.su/quote/generate
-    expectedStatusCodes:
-      - 400
-      - 429
-  - name: hetzner
-    url: https://hz.lyo.su
+  - name: lyubchak.com
+    url: https://lyubchak.com
   - name: mongo-hetzner
     check: "tcp-ping"
     url: $URI_HETZNER
@@ -28,9 +20,8 @@ sites:
 status-website:
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  cname: status.lyo.su
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # baseUrl: /upptimly
+  baseUrl: /upptimly
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime**"
